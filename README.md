@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Jeremy4040/Jeremy4040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Self taught Go developer.
 
 ![image](https://user-images.githubusercontent.com/97793229/182524392-ad2eaa1e-623c-48ef-8efe-2af3a96dcead.png)
@@ -34,4 +31,3 @@ A self taught Go developer, passionate about programming also fast learner with 
     </p>
   </samp>
 </div>
--->
