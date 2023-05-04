@@ -7,4 +7,4 @@
 A passionate learner ready to tackle all the challenges of the constantly evolving devops field with keen interest.
 
 
-<!-- ![image](https://user-images.githubusercontent.com/97793229/182523426-4a1a13f0-620e-4749-8264-f757631301f4.png) -->
+[image](https://user-images.githubusercontent.com/97793229/182523426-4a1a13f0-620e-4749-8264-f757631301f4.png)
